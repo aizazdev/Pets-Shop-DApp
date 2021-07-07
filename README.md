@@ -7,7 +7,7 @@ The app is build using Solidity programming for smart contract and react for fro
 The include 16 pets which can be adopted by anyone after adopters they will be able to revert back.
 
 ## Clone the repository and run app on your system
-1 - copy/paste solidty code in remix id\
+1 - copy/paste solidity code in remix \
 2 - Copy/paste abi and address in abi folder file\
 3 - navigate to app folder 
 4 - run npm init 
